@@ -18,10 +18,33 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+ 
+}
+
+.hero-animation { background-image: linear-gradient(147.92deg, hsla(239, 73%, 50%, 0.405) 11.23%,hsla(0, 0%, 100%, 0),  89.25%); animation: changeBackgroundColor 8s infinite alternate; -webkit-animation: changeBackgroundColor 8s infinite alternate;
+}
+
+
+@keyframes changeBackgroundColor {
+  0%, 100% {
+    opacity: 1
+  }
+
+  16.67% {
+    opacity: 0.89;
+  }
+
+  33.33% {
+    opacity: 0.8;
+  }
+
+  50% {
+    opacity: 0.6;
+  }
+  66.67% {
+    opacity: 0.5;
+  }
+  83.3% {
+    opacity: 0.4;
+  }
 }
