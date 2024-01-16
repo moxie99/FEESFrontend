@@ -8,7 +8,7 @@ const Page: FC<Props> = (props) => {
   return (
     <div>
       <Heading
-        title='FEES'
+        title='FEES to the world'
         description='fdghjsdfghjfdghj chgvb xgfchv xgfhv xcv cxvbcxvbn xgcvcvb'
         keywords='Software Engineering, Graphics, Data Science, Product management'
       />
