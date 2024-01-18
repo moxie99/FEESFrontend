@@ -10,7 +10,7 @@ const Page: FC<Props> = (props) => {
       <Heading
         title='FEES to the world'
         description='fdghjsdfghjfdghj chgvb xgfchv xgfhv xcv cxvbcxvbn xgcvcvb'
-        keywords='Software Engineering, Graphics, Data Science, Product management'
+        keywords='Software Engineering, Graphics, Data Science, Product management, Venture Capital, Skill Acquisition, Mentorship, Leadership, Fashion Designing'
       />
     </div>
   );
