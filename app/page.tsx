@@ -9,7 +9,7 @@ const Page: FC<Props> = (props) => {
     <div>
       <Heading
         title='FEES to the world'
-        description='fdghjsdfghjfdghj chgvb xgfchv xgfhv xcv cxvbcxvbn xgcvcvb'
+        description='Entrepreneurship and Empowerment'
         keywords='Software Engineering, Graphics, Data Science, Product management, Venture Capital, Skill Acquisition, Mentorship, Leadership, Fashion Designing'
       />
     </div>
